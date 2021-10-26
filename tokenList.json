@@ -20,7 +20,7 @@
       "symbol": "COPB",
       "name": "COP",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/feathericons/feather/master/icons/help-circle.svg",
       "tags": [
         "stablecoin"
       ]
