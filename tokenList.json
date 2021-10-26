@@ -1,0 +1,34 @@
+{
+  "name": "My Test Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the COPB"
+    }
+  },
+  "timestamp": "2021-10-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 80001,
+      "address": "0x9a31336E3Cda52c7EB878aB63A8d9F86DF1968EC",
+      "symbol": "COPB",
+      "name": "COP",
+      "decimals": 6,
+      "logoURI": "",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
