@@ -1,0 +1,47 @@
+{
+  "name": "My Test Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the COPB"
+    }
+  },
+  "timestamp": "2021-10-26T00:00:00+00:00",
+  "tokens": [
+        {
+      "chainId": 5,
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
+    },
+    {
+      "chainId": 5,
+      "address": "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/scifi_index.svg"
+    },
+    {
+      "chainId": 5,
+      "address": "0x900A36AC1f491b6f17B88CfB8DE5773dD8e51a4B",
+      "symbol": "COPB",
+      "name": "COP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/feathericons/feather/master/icons/help-circle.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
